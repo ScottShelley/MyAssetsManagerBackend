@@ -1,0 +1,6 @@
+@MyAssetsManagerBackend_HostAddress = http://localhost:5216
+
+GET {{MyAssetsManagerBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
